@@ -1,6 +1,11 @@
-### PHORLIX  
+### PHORLIX community
 
-配布用テストリポジトリ 
+This is the PHORLIX community site.
+
+
+  
+  
+
   
 
   
